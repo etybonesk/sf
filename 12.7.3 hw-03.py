@@ -28,3 +28,5 @@ for i in range(4):
 max_bank = list(per_cent.keys())[deposit.index(max(deposit))]
 print()
 print('Максимальная сумма, которую вы можете получить по вкладу:', max(deposit), 'рублей в банке', max_bank)
+
+#   Тест гитхаба
